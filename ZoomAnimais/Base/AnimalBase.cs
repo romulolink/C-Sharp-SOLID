@@ -15,7 +15,7 @@ namespace ZoomAnimais
         public override string ToString()
         {
 
-            return string.Format("Animal : {0} , {1} , {2}, {3}, {4}, {5} ", Nome, Peso, Idade, Altura, IsVivo, IsFromCativeiro); 
+            return string.Format("Animal : {0} ,{1} , {2}, {3}, {4}, {5} ", Nome, Peso, Idade, Altura, IsVivo, IsFromCativeiro); 
         }
     }
 
